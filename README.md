@@ -1,4 +1,4 @@
-# [Analyzing & Predicting MovieRatings](https://github.com/GonzaloFlores1306/MovieRatings/blob/main/Analysis_Movie_Reviews.ipynb)
+# Analyzing & Predicting MovieRatings
 This project presents a complete **data analysis and machine learning pipeline** to explore and predict movie ratings based on various features such as title, genre, and year.
 
 ---
@@ -69,6 +69,8 @@ The model can be used to predict a movie’s expected rating given its genre and
 ---
 
 ✅ This project demonstrates the integration of EDA, data cleaning, and machine learning to extract insights and make predictions on real-world entertainment data. It showcases the full data science pipeline from raw CSV files to model deployment-ready predictions.
+
+[Watch the full project here](https://github.com/GonzaloFlores1306/MovieRatings/blob/main/Analysis_Movie_Reviews.ipynb)
 
 ---
 
